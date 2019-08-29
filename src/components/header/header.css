@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  height: 60px;
+  background-color: #4a90e2;
+  color: #fff;
+  justify-content: space-between;
+  padding: 5px 50px;
+  align-items: center;
+  font-size: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#navbar--facebook {
+  cursor: pointer;
+  height: 20px;
+}
+#navbar--my-profile {
+  cursor: pointer;
+  padding-right: 50px;
+}

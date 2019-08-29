@@ -1,0 +1,16 @@
+.post__comment {
+  display: flex;
+  flex-direction: row;
+  margin: 15px 0;
+}
+
+.post__comment__text {
+  color: #3e3e3e;
+  font-size: 13px;
+  background-color: #eeeeee;
+  border-radius: 15px;
+  padding: 2%;
+  margin: 0 2%;
+  line-height: 20px;
+  width: 100%;
+}

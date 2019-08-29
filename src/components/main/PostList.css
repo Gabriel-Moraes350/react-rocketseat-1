@@ -1,0 +1,10 @@
+.main-container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.profile-picture {
+  height: 32px;
+  height: 32px;
+  border-radius: 50%;
+}

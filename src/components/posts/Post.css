@@ -1,0 +1,36 @@
+.main__post {
+  background: #fff;
+  margin: 30px 0;
+  border-radius: 10px;
+  width: 660px;
+  padding: 4%;
+}
+.post__header {
+  display: flex;
+  flex-direction: row;
+}
+.post__header_info {
+  padding: 0 2%;
+}
+.post__header_info h3 {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-weight: bold;
+}
+.post__content {
+  margin-top: 25px;
+  color: #3e3e3e;
+  font-size: 14px;
+  white-space: pre-wrap;
+  line-height: 22px;
+}
+
+.post__header_info small {
+  color: #9a9a9a;
+}
+
+.line-comments {
+  margin: 25px 0;
+  color: #eeeeee;
+}
